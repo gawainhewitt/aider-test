@@ -1,1 +1,9 @@
-.aider*
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# VS Code
+.vscode/
