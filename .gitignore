@@ -8,3 +8,9 @@
 # VS Code
 .vscode/
 .aider*
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
