@@ -1,5 +1,5 @@
 <script>
-  let message = 'this has been coded with aider';
+  let message = 'This Has Been Coded With Aider';
 </script>
 
 <h1>{message}</h1>
