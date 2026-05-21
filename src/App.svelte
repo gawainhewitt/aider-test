@@ -1,7 +1,7 @@
 <script>
-  let name = 'World';
+  let message = 'this has been coded with aider';
 </script>
 
-<h1>Hello {name}!</h1>
+<h1>{message}</h1>
 
 <p>Welcome to your Svelte + Vite app!</p>
